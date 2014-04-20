@@ -1,0 +1,18 @@
+文件说明：
+LFM_radar.h
+LFM_radar.cpp : 是对Matlab文件的移植
+
+util.h
+util.cpp : 功能函数，包含mkl库的封装，部分matlab函数
+
+MKLtest.cpp : util中函数的测试代码
+
+makefile : Linux下生成可执行文件的配置文件。Windows下可能不需要
+
+output.data : 程序生成的结果，与Matlab结果一致。
+
+README : 说明文件
+
+如果代码有bug，再联系我。
+
+T_T,这份代码花了我好长时间。
